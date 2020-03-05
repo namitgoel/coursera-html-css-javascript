@@ -1,0 +1,7 @@
+git clone https://github.com/namitgoel/coursera-html-css-javascript.git
+
+git add .
+
+git commit -m " message"
+
+browser-sync start --server --directory --files "*"
