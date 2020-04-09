@@ -1,0 +1,116 @@
+h1{
+	text-align: center;
+}
+#nav-list{
+	color: brown;
+	font-size: 1.2em;
+	text-align: center;
+}
+.navbar-brand h1{
+  color: #000000;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #ffffff;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#dal-makhani{
+  height: 500px;
+  width: auto;
+  margin-bottom: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+  background-color: #8B4513 ;
+  background-position: center;
+}
+#paneer-tikka{
+  height: 500px;
+  width: auto;
+ margin-bottom: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+  background-color:#8B4513 ;
+  background-position: center;
+}
+#dosa{
+  height: 500px;
+  width: auto;
+  margin-bottom: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+  background-color: #8B4513;
+  background-position: center;
+}
+#dal-makhani h2{
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  margin-bottom: 10px;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  color: #fff;
+}
+#dal-makhani p{
+  position: absolute;
+  bottom: 380px;
+  width: 100%;
+  height: 50px;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  color: #fff;
+	
+}
+#paneer-tikka h2{
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  color: #fff;
+	
+}
+
+#paneer-tikka p{
+  position: absolute;
+  bottom: 380px;
+  width: 100%;
+  height: 50px;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  color: #fff;
+	
+}
+#dosa h2{
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  color: #fff;
+	
+}
+
+#dosa p{
+  position: absolute;
+  bottom: 380px;
+  width: 100%;
+  height: 50px;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  color: #fff;
+	
+}
